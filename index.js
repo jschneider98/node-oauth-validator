@@ -1,0 +1,1 @@
+exports.OAuthValidator = require("./lib/oauth_validator").OAuthValidator;
