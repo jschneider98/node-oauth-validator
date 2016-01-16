@@ -1,6 +1,4 @@
 # node-oauth-validator
-======================
-
 Simple server side Oauth validation. We're talking one legged Oauth here.
 
 ## Installation
@@ -12,6 +10,7 @@ Simple server side Oauth validation. We're talking one legged Oauth here.
 ```javascript
 var OAuthValidator = require('node-oauth-validator');
 
+// Should be retrieved from request header
 var authString = 'OAuth oauth_consumer_key="consumer_key",oauth_nonce="8OBpuvFSRwgdU7Q0oFkqa13XwGfGMXym",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1452891729",oauth_token="user_key",oauth_version="1.0A",oauth_signature="Qp6Q5fp2fJ6Y6SelcPGGK%2Fs%2FluI%3D"'
 
 var requestUrl = 'http://localhost:3000';
