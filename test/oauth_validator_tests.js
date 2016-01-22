@@ -86,6 +86,7 @@ describe('#OAuthValidator.isValid()', function() {
             userKey,
             'bad_user_key',
             httpRequestMethod,
+            {},
             authString
         ).should.equal(false);
     });
@@ -96,6 +97,7 @@ describe('#OAuthValidator.isValid()', function() {
             userKey,
             userSecret,
             httpRequestMethod,
+            {},
             authString
         ).should.equal(true);
     });
