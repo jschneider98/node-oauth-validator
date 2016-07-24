@@ -1,4 +1,7 @@
 # node-oauth-validator
+
+[![Build Status](https://travis-ci.org/blackstar257/node-oauth-validator.svg?branch=master)](https://travis-ci.org/blackstar257/node-oauth-validator)
+
 Simple server side Oauth validation. We're talking one legged Oauth here.
 
 ## Installation
