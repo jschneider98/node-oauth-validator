@@ -4,6 +4,8 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/blackstar257/node-oauth-validator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/blackstar257/node-oauth-validator/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/blackstar257/node-oauth-validator/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/blackstar257/node-oauth-validator/?branch=master)
 [![Dependency Status](https://www.versioneye.com/user/projects/57944319ad952900448ada5c/badge.svg)](https://www.versioneye.com/user/projects/57944319ad952900448ada5c)
+[![Coverage Status](https://coveralls.io/repos/github/blackstar257/node-oauth-validator/badge.svg?branch=master)](https://coveralls.io/github/blackstar257/node-oauth-validator?branch=master)
+
 
 Simple server side Oauth validation. We're talking one legged Oauth here.
 
